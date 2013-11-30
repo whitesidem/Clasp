@@ -1,0 +1,21 @@
+[PropertyInfo]
+animationStep,int,false,false, , ,false,<default>
+col,int,false,false, , ,true,<default>
+height,int,false,false, , ,false,<default>
+imgP1LoserPiece,ImageIcon,false,false, , ,false,<default>
+imgP1Piece,ImageIcon,false,false, , ,false,<default>
+imgP2LoserPiece,ImageIcon,false,false, , ,false,<default>
+imgP2Piece,ImageIcon,false,false, , ,false,<default>
+p1Image,Image,false,false, , ,false,<default>
+p1LoserImage,Image,false,false, , ,false,<default>
+p2Image,Image,false,false, , ,false,<default>
+p2LoserImage,Image,false,false, , ,false,<default>
+player,int,false,false, , ,false,<default>
+row,int,false,false, , ,true,<default>
+state,int,false,false, , ,false,<default>
+width,int,false,false, , ,false,<default>
+[IconNames]
+
+
+
+

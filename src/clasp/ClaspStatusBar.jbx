@@ -1,0 +1,10 @@
+[PropertyInfo]
+levelPane,StatusPane,false,false, , ,false,<default>
+levelText,int,false,false, , ,true,<default>
+messagePane,StatusPane,false,false, , ,false,<default>
+messageText,String,false,false, , ,true,<default>
+[IconNames]
+
+
+
+

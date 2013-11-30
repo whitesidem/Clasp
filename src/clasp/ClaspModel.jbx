@@ -1,0 +1,21 @@
+[PropertyInfo]
+choosePiece,ClaspBasePiece,false,false, , ,false,<default>
+colSelected,int,false,false, , ,false,<default>
+firstMove,boolean,false,false, , ,false,<default>
+gameStatus,ClaspGameStatus,false,false, , ,false,<default>
+gridActions,ClaspGridActions,false,false, , ,false,<default>
+gridMode,int,false,false, , ,false,<default>
+gridPieces,ClaspBasePiece[][],false,false, , ,false,<default>
+levelMode,int,false,false, , ,false,<default>
+needRaceRestore,boolean,false,false, , ,false,<default>
+p1JokerStatus,int,false,false, , ,false,<default>
+p2JokerStatus,int,false,false, , ,false,<default>
+processing,boolean,false,false, , ,false,<default>
+rand,Random,false,false, , ,false,<default>
+storePreRaceCols,int,false,false, , ,false,<default>
+storePreRaceRows,int,false,false, , ,false,<default>
+[IconNames]
+
+
+
+

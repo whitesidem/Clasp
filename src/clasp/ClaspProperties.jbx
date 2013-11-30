@@ -1,0 +1,10 @@
+[PropertyInfo]
+fullLine,int,false,false, , ,false,<default>
+gridCols,int,false,false, , ,false,<default>
+gridRows,int,false,false, , ,false,<default>
+randGrid,boolean,false,false,randGrid,randGrid,true,<default>
+[IconNames]
+
+
+
+

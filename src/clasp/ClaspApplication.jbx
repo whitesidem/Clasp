@@ -1,0 +1,12 @@
+[PropertyInfo]
+claspApp,ClaspApplication,false,false, , ,false,<default>
+claspModel,ClaspModel,false,false, , ,false,<default>
+claspView,ClaspView,false,false, , ,false,<default>
+gameStatus,ClaspGameStatus,false,false, , ,false,<default>
+mainFrame,MainFrame,false,false, , ,false,<default>
+packFrame,boolean,false,false, , ,false,<default>
+[IconNames]
+
+
+
+

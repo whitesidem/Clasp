@@ -1,0 +1,89 @@
+Things To Do:
+
+
+===============================
+
+Create new Icon!!! - based on a red and blue planet
+
+========================================
+
+
+Name:
+	CLASP3 - The Zog Matrix. Change player 1&2 to ZIG and ZAG, overlords of the galaxy ZIG and ZAG, 
+	Aligning planets to gain power over the univers on the infamous Zog Matrix.
+
+Game Control:
+
+
+
+=================
+
+MORE:
+
+More Landscapes
+More Random Drops
+
+
+==================
+
+Pieces:
+
+
+
+Force Field:
+Landscape. Causes random moves up/down / left /right - disapears as a piece passes through it
+Random drop - to cause chaos
+
+
+FRUIT:  - collect a cherry.
+A go on the fruit Machine:
+	1-- Coins = £10
+	11- Coins = £100
+	111 Coins = £500
+	(based on you being P1)
+	1-- P1 pieces = nothing
+	11- P1 pieces = 1 full row of your P1 pieces dropped
+	111 P1 pieces = 3 full rows of your P1 pieces dropped
+	1-- P2 pieces = nothing
+	11- P2 pieces = nothing
+	111 P2 pieces = 3 full rows of P2 pieces dropped
+	
+
+MYSTERY:		 
+Add Random Mystery Drops "Purple (?)" - When picked up you get one of the following:
+	- Some cash of random amount
+	- X times free Weapon randomly from your list of researched weapons
+        - Increase amount allowed to carry for a certain item
+	- A go on the Fruit machine
+	- A free turn
+
+
+
+	
+	
+========================================
+Weapons:
+
+1:  	Std       	Free	- can hold infinate of these
+2:	Magnet    	100	- can hold 5 of these
+3:  	Searcher  	150	- can hold 6 of these
+4:  	Assassin  	300	- can hold 4 of these
+5:  	Sniper  	400	- can hold 2 of these
+6:  	Leveller 	600	- can hold 1 of these
+7:	Trophy 1	- can hold 1 of these (only 1 player can own it) - won from horserace
+8:	Trophy 2	- can hold 1 of these (only 1 player can own it) - won from horserace
+
+
+==========================
+
+KNOWN BUGS TO FIX:
+
+None:
+
+=========================
+Build Instructions
+
+Put images in the clasp/src level.
+Build runtime by going to "application" in tree view and doing right click - make
+
+

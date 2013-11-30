@@ -1,0 +1,17 @@
+[PropertyInfo]
+CrackStatus,boolean,false,false, , ,false,<default>
+EggCrack2Image,Image,false,false, , ,false,<default>
+EggImage,Image,false,false, , ,false,<default>
+imgCrack1Piece,ImageIcon,false,false, , ,false,<default>
+imgCrack2Piece,ImageIcon,false,false, , ,false,<default>
+imgEggPiece,ImageIcon,false,false, , ,false,<default>
+imgP1EggPiece,ImageIcon,false,false, , ,false,<default>
+imgP2EggPiece,ImageIcon,false,false, , ,false,<default>
+p1EggImage,Image,false,false, , ,false,<default>
+p2EggImage,Image,false,false, , ,false,<default>
+hatchPlayer,int,false,false,hatchPlayer,hatchPlayer,true,<default>
+[IconNames]
+
+
+
+

@@ -1,0 +1,24 @@
+[PropertyInfo]
+cashTotal,long,false,false, , ,true,<default>
+gridsWon,int,false,false, , ,true,<default>
+maxAssassin,int,false,false,maxAssassin,maxAssassin,true,<default>
+maxLeveller,int,false,false,maxLeveller,maxLeveller,true,<default>
+maxMagnet,int,false,false,maxMagnet,maxMagnet,true,<default>
+maxSch,int,false,false,maxSch,maxSch,true,<default>
+maxSniper,int,false,false,maxSniper,maxSniper,true,<default>
+researchLevel,int,false,false,researchLevel,researchLevel,true,<default>
+totalAssassin,int,false,false, , ,true,<default>
+totalJoker,int,false,false,totalJoker,totalJoker,true,<default>
+totalLeveller,int,false,false, , ,true,<default>
+totalLines,int,false,false, , ,true,<default>
+totalMagnet,int,false,false, , ,true,<default>
+totalResearch,int,false,false, , ,true,<default>
+totalSch,int,false,false, , ,true,<default>
+totalSniper,int,false,false, , ,true,<default>
+totalTrophy1,int,false,false,totalTrophy1,totalTrophy1,true,<default>
+totalTrophy2,int,false,false,totalTrophy2,totalTrophy2,true,<default>
+[IconNames]
+
+
+
+
